@@ -1,9 +1,78 @@
-## Artur Braga 💻
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient&customColorList=ffd953,ff5a00"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff5a00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Artur+Braga;I'm+36+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+**`Estudante de Ciências de Dados`**
 
-### Main skills: 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+Me chamo Artur Braga, tenho 36 anos e sou natural do Rio de Janeiro. Trabalhei no ramo de prevenção a fraude e atualmente, estou cursando Cientista de Dados pela EBAC. 
+
+
+<p >
+    <a href="https://github.com/Harthur36?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Harthur36?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Harthur36?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Harthur36?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+     <a href="https://www.linkedin.com/in/artur-braga-418383106/">
+        <img 
+            alt="Email" 
+            title="Endereço de Email" 
+            src="https://custom-icon-badges.demolab.com/badge/arturbraga4@outlook.com-E61B23.svg?logo=mail/?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=&logoColor=white"
+        />
+   
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="SALESFORCE"
+    title="SALESFORCE" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg"
+/>
+          
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Harthur36&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+</p>
